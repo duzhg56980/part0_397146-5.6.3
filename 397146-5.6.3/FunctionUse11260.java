@@ -1,0 +1,6 @@
+import cn.hutool.json.JSONObject;
+public class FunctionUse11260 {
+public void funcUse() {
+JSONObject jsonobject = new JSONObject();
+}
+}
